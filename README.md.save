@@ -1,0 +1,12 @@
+# test
+remote_1
+local_1
+local_2
+local_3
+local4
+remote5
+local6
+<<<<<<< HEAD
+local7
+=======
+remote>>>>>>> 9239030a315d046604386e92e0fb113189df0f3e
